@@ -1,7 +1,4 @@
 # AllocateCanvas — User Interview Notes (Organized)
-
-**14 interviews conducted by 4 team members:** MJ Abankwah, Navya Gupta, Orest, and Himel.
-
 ---
 
 ## 1. Interviewee Overview
