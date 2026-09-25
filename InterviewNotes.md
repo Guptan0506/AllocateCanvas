@@ -8,13 +8,13 @@
 
 | # | Interviewer | Interviewee | Major | Credits |
 |---|---|---|---|---|
-| 1 | MJ Abankwah | (Interview 1) | Business | 15 |
-| 2 | MJ Abankwah | (Interview 2) | Psychology | 15 |
-| 3 | MJ Abankwah | (Interview 3) | Information Technology | 15 |
-| 4 | Navya Gupta | (Interview 1) | Biology | 12 |
-| 5 | Navya Gupta | (Interview 2) | Social Work | 15 |
-| 6 | Navya Gupta | (Interview 3) | IT – Data Technologies & Math | 18 |
-| 7 | Navya Gupta | (Interview 4) | Psychology | 12 |
+| 1 | MJ | (Interview 1) | Business | 15 |
+| 2 | MJ | (Interview 2) | Psychology | 15 |
+| 3 | MJ | (Interview 3) | Information Technology | 15 |
+| 4 | Navya | (Interview 1) | Biology | 12 |
+| 5 | Navya | (Interview 2) | Social Work | 15 |
+| 6 | Navya | (Interview 3) | IT – Data Technologies & Math | 18 |
+| 7 | Navya | (Interview 4) | Psychology | 12 |
 | 8 | Orest | Kyle | Cybersecurity & IT (double major) | 18 |
 | 9 | Orest | Breanna | Health Admin → Nursing (gap semester) | 0 (avg. 17–18) |
 | 10 | Orest | Haley | Middle Education | 16 |
