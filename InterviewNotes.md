@@ -13,7 +13,7 @@
 | 3 | MJ Abankwah | (Interview 3) | Information Technology | 15 |
 | 4 | Navya Gupta | (Interview 1) | Biology | 12 |
 | 5 | Navya Gupta | (Interview 2) | Social Work | 15 |
-| 6 | Navya Gupta | (Interview 3) | IT – Data Technologies & Math | — |
+| 6 | Navya Gupta | (Interview 3) | IT – Data Technologies & Math | 18 |
 | 7 | Navya Gupta | (Interview 4) | Psychology | 12 |
 | 8 | Orest | Kyle | Cybersecurity & IT (double major) | 18 |
 | 9 | Orest | Breanna | Health Admin → Nursing (gap semester) | 0 (avg. 17–18) |
